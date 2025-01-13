@@ -28,3 +28,22 @@ specific occasions.
 ## Dashboard
 ![Zepto - Sales_Dashboard](https://github.com/user-attachments/assets/cfdfff57-04f2-4d5e-a75c-428ff120fd06)
 
+## Project Insights
+Overview
+This dashboard analyzes 1,000 orders, totaling ₹35,20,984 in revenue, with insights into occasions, categories, cities, and time-based trends.
+
+Key Metrics
+Total Orders: 1,000
+Total Revenue: ₹35,20,984
+Average Revenue per Order: ₹3,520.98
+Average Delivery Time: 5.53 days
+Insights
+Top-Performing Occasions:
+Anniversary (₹6,74,634), Raksha Bandhan (₹6,31,585).
+Revenue by Category:
+Top categories: Colors (₹10,05,645), Soft Toys, and Sweets.
+Geographical Trends:
+Highest sales in Imphal and Dhanbad.
+Temporal Trends:
+Revenue peaks in March and August. Evening hours have the highest sales.
+
