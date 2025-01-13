@@ -24,3 +24,7 @@ number of orders.
 different occasions.
 9. Product Popularity by Occasion: Identify which products are most popular during
 specific occasions.
+
+## Dashboard
+![Zepto - Sales_Dashboard](https://github.com/user-attachments/assets/cfdfff57-04f2-4d5e-a75c-428ff120fd06)
+
