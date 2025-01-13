@@ -1,6 +1,6 @@
 # Zepto_Data-Analysis (Interactive Dashboard using MS Excel)
 ## Project Objective 
-Analyzing the ZEPTO dataset to discover insights on sales trends, customer behavior, and product performance to optimize sales strategy and improve customer satisfaction.
+Analyzing the ZEPTO datasets on customers, products, and orders to discover insights on sales trends, customer behavior, and product performance, with the goal of optimizing sales strategy and improving customer satisfaction.
 
 ## Final Project
 - <a href="https://github.com/Pranesh034/Data-Analysis-Dashboard/blob/main/Excel%20Full%20Project%20-%20Sales%20Analysis.xlsx">Final Project</a>
