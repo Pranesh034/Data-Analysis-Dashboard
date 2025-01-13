@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data processing, cleaning, modeling, and visualization.
+# Zepto_Data-Analysis (Interactive Dashboard using MS Excel)
+## Project Objective 
+Analyzing the ZEPTO dataset to discover insights on sales trends, customer behavior, and product performance to optimize sales strategy and improve customer satisfaction.
